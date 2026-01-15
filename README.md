@@ -52,14 +52,8 @@ before actual network deployment, helping reduce installation cost, time, and er
 ---
 
 ## Project Structure
-infosys-springboard-site-survey-tool
-│
-├── backend/ # Spring Boot application
-├── frontend/ # React + Tailwind application
-├── database/ # DB schema & seed data
-├── docs/ # Documentation & architecture
-├── README.md
-└── .gitignore
+
+<img width="423" height="245" alt="image" src="https://github.com/user-attachments/assets/38d21b58-ee93-4fb1-a519-c6ec3da09d02" />
 
 
 ---
