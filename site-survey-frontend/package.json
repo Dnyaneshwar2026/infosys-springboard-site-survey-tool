@@ -1,0 +1,8 @@
+{
+  "name": "site-survey-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.13.2"
+  }
+}
