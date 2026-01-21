@@ -150,7 +150,3 @@ Relationships:
 ## Status
 🚧 Project under active development as part of Infosys Springboard Internship.
 
-
-
-
-
