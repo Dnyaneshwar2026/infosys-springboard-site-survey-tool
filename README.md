@@ -97,18 +97,18 @@ Relationships:
 
 ## Milestone Progress
 
-### ✅ Milestone 1 – Core Setup & Foundations
+###  Milestone 1 – Core Setup & Foundations
 - Spring Boot project setup
 - MySQL configuration
 - JWT authentication
 - Campus & Building APIs
 
-### ✅ Milestone 2 – Floor Plan & Data Management
+###  Milestone 2 – Floor Plan & Data Management
 - Floor entity & APIs
 - Floor plan upload
 - Hierarchical data validation
 
-### ✅ Milestone 3 – Labeling & Survey Data Capture
+###  Milestone 3 – Labeling & Survey Data Capture
 - Space module implementation
 - Checklist templates & questions
 - Dynamic survey forms
@@ -116,7 +116,7 @@ Relationships:
 - React + Spring Boot integration
 - CORS handling and validation
 
-### ⏳ Milestone 4 – Reporting & Finalization
+###  Milestone 4 – Reporting & Finalization
 - PDF report generation
 - RF integration tools
 - Dashboards & analytics
@@ -135,6 +135,8 @@ Relationships:
 
 ### MySQL Data View
 <img width="955" height="780" alt="image" src="https://github.com/user-attachments/assets/27014bc3-1548-4e16-8e15-32274bb4e403" />
+###  PDF report generation
+<img width="1354" height="605" alt="Screenshot 2026-01-22 152853" src="https://github.com/user-attachments/assets/733b8947-0ef1-44c4-ba07-0c35c8a2d3be" />
 
 
 ---
@@ -147,6 +149,5 @@ Relationships:
 
 ---
 
-## Status
-🚧 Project under active development as part of Infosys Springboard Internship.
+
 
